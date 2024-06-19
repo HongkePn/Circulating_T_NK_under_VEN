@@ -1,4 +1,4 @@
 # Circulating_T_NK_under_VEN
 
-Hi, I am currently update the analysis scripts into R script from Rmarkdown. 
-This update should be finished in 2 weeks (2023-06-15)
+Analysis scripts for Teh CE et al.,_Blood Adv_, 2023
+https://doi.org/10.1182/bloodadvances.2022008221
